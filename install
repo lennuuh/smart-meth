@@ -1,0 +1,20 @@
+Add this to ox_inventory/data/items.lua 
+    ["boiledmeth"] = {
+        label = "Keitetty meta",
+        weight = 150,
+        stack = true,
+        close = true,
+    },
+
+    ["crushedmeth"] = {
+        label = "Murskattu meta",
+        weight = 145,
+        stack = true,
+        close = true,
+    },
+
+    ['meth'] = {
+      label = 'Meta 5G', 
+      weight = 5, 
+      stack = true, 
+    },
