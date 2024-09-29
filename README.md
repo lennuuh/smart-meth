@@ -9,6 +9,7 @@ Simple FiveM meth script for esx framework with 3 steps ( Boiling, crushing and 
 # Install
 
 - Download a release
+- Rename the file to L_Meth
 - Add start l_meth in server.cfg
 - Check install file
   
