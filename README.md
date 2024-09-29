@@ -4,7 +4,7 @@ Simple FiveM meth script for esx framework with 3 steps ( Boiling, crushing and 
 # Dependencies
 - ox_lib
 - ox_inventory
-- ox_lib
+- ox_target
 
 # Install
 
