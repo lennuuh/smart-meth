@@ -10,24 +10,5 @@ Simple FiveM meth script for esx framework with 3 steps ( Boiling, crushing and 
 
 - Download a release
 - Add start l_meth in server.cfg
-- Add this to ox_inventory/data/items.lua 
-    ["boiledmeth"] = {
-        label = "Keitetty meta",
-        weight = 150,
-        stack = true,
-        close = true,
-    },
-
-    ["crushedmeth"] = {
-        label = "Murskattu meta",
-        weight = 145,
-        stack = true,
-        close = true,
-    },
-
-    ['meth'] = {
-      label = 'Meta 5G', 
-      weight = 5, 
-      stack = true, 
-    },
-  - Start your server and should be ready to go!
+- Check install file
+  
